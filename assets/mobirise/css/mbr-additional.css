@@ -4118,6 +4118,18 @@ body {
 .cid-r4FZd1iiIu .mbr-section-btn {
   color: #000000;
 }
+.cid-r4GLwEoFst {
+  background: #ffffff;
+}
+.cid-r4GLwEoFst .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r4GLwEoFst .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r4FOw7Hxj6 {
   padding-top: 45px;
   padding-bottom: 45px;
